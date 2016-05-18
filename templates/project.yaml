@@ -8,7 +8,7 @@ name: '{{project_name}}'
 # Build task
 # ----------
 # Comma-separated list of command line arguments passed to cmake
-cmake-args: ['-G Unix Makefiles',
+cmake-args: ['-G "Unix Makefiles"',
              '-DCMAKE_BUILD_TYPE=RelWithDebInfo']
 
 # Comma-separated list of arguments passed to cmake --build
