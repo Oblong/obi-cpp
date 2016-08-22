@@ -10,7 +10,7 @@ Then, install the template.  Be sure to pass the optional `[<name>]` argument
 (`cpp`) or obi will complain.
 
 ``` bash
-$ obi template install git@github.com:Oblong/obi-cpp cpp`
+$ obi template install git@github.com:Oblong/obi-cpp cpp
 ```
 
 Finally, create a new project, build it, and run the thing!
